@@ -3,7 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2020
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadingAmnesia", "ThreadingAmnesia\ThreadingAmnesia.csproj", "{27B3185C-A0E6-43BA-A9D6-0EF677BE6A7A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThreadingAmnesia", "ThreadingAmnesia\ThreadingAmnesia.csproj", "{27B3185C-A0E6-43BA-A9D6-0EF677BE6A7A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{07350EC3-BE54-41A7-BCA4-7F2D9B4D9F2D}"
+	ProjectSection(SolutionItems) = preProject
+		CHANGELOG.md = CHANGELOG.md
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

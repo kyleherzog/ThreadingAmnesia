@@ -1,7 +1,16 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netstandard2.0</TargetFramework>
+    <TargetFramework>netstandard1.0</TargetFramework>
+    <Authors>Kyle Herzog</Authors>
+    <Company />
+    <Product>Threading Amnesia</Product>
+    <Description>.NET Standard library that provides an extension method for Tasks to forget them once they are fired.</Description>
+    <Copyright>Copyright ©  2018</Copyright>
+    <PackageLicenseUrl>https://raw.githubusercontent.com/kyleherzog/ThreadingAmnesia/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/kyleherzog/ThreadingAmnesia</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/kyleherzog/ThreadingAmnesia</RepositoryUrl>
+    <PackageTags>Threading Tasks Forget Async Await</PackageTags>
   </PropertyGroup>
 
 </Project>
