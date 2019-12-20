@@ -1,4 +1,4 @@
-# Binding Bits
+# Threading Amnesia
 
 [![Build status](https://ci.appveyor.com/api/projects/status/gmvrjms5y52fl8gw?svg=true)](https://ci.appveyor.com/project/kyleherzog/threadingamnesia)
 
